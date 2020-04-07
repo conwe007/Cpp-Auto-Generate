@@ -26,6 +26,8 @@ The header file must follow strict formatting guidelines for this program to exe
 
 2) Comments about methods must appear on the same line as the method
 
+3) The double forward slash from comments about methods must begin exactly one space after the method's ending semicolon
+
 3) The end of the class declaration must be a single line with nothing but the characters "};"
 
 The following is a non-comprehensive list of formatting guidelines:
